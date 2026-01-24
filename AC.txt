@@ -1,0 +1,5 @@
+plot_loom.py "s_fca_biohub_malpighian_tubule.loom" --out maps.pdf --capar_minmax 0 11 --dh31_minmax 0 5.9 --lkr_minmax 0 6.067 --combined_pointsize 4 --combined_alpha 1.0
+
+pip install scanpy loompy anndata matplotlib
+
+python .\plot_loom.py "s_fca_biohub_malpighian_tubule.loom" --out maps.pdf --capar_minmax 0 11 --dh31_minmax 0 5.9 --lkr_minmax 0 6.067 --combined_pointsize 4 --combined_alpha 1.0
