@@ -1,4 +1,3 @@
-<img width="443" height="215" alt="image" src="https://github.com/user-attachments/assets/358d0345-5b0e-410c-be40-2bbd9551261f" />
 # Three-Gene LOOM Visualizer
 
 A command-line tool for generating publication-ready UMAP/TSNE gene expression maps from `.loom` single-cell datasets.
@@ -34,7 +33,7 @@ Page 3 — Gene 3 (Lkr default)
 Page 4 — Combined RGB overlay  
 
 ---
-
+<img width="443" height="215" alt="image" src="https://github.com/user-attachments/assets/358d0345-5b0e-410c-be40-2bbd9551261f" />
 ## Installation
 
 Requires:
