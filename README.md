@@ -1,4 +1,4 @@
-# Three-Gene LOOM Visualizer
+# Multiple-Gene LOOM Visualizer
 
 A command-line tool for generating publication-ready UMAP/TSNE gene expression maps from `.loom` single-cell datasets.
 
