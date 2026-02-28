@@ -37,7 +37,18 @@ Page 4 — Combined RGB overlay
 
 Requires:
 
+- Python ≥ 3.9
+- scanpy
+- anndata
+- loompy
+- matplotlib
+- numpy
+- scipy
 
+Install dependencies:
 
+```bash
+pip install scanpy anndata loompy matplotlib numpy scipy
+```
 
 <img width="443" height="215" alt="image" src="https://github.com/user-attachments/assets/358d0345-5b0e-410c-be40-2bbd9551261f" />
